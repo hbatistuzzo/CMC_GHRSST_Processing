@@ -10,7 +10,8 @@
 	- Cmocean 2.0
 
 <img src="ghrsst.png" align="right" width="50%"/>
-The Group for High-Resolution Sea Surface Temperature (SST) (GHRSST) provides a new generation of global high-resolution (<10km) SST products to the operational oceanographic, meteorological, climate and general scientific community.
+The Group for High-Resolution Sea Surface Temperature (SST) (GHRSST) provides a new generation of global high-resolution (<10km)
+SST products to the operational oceanographic, meteorological, climate and general scientific community.<br/>
 
 
 
@@ -18,10 +19,10 @@ The Group for High-Resolution Sea Surface Temperature (SST) (GHRSST) provides a 
 
 
 
-
-<p align="center"><img src="full_sst_mean2.png"alt="full"></p>
 In this project I've created some functions to help plot SST data on different projections (Robinson being, arguably, one of the best for global imagery). The code also
 performs some previous statistics on the dataset to allow the plotting of mean +/- standard deviation contours, which are also applied in the colorbar.
+<p align="center"><img src="full_sst_mean2.png"alt="full"></p>
+
 
 There is also some snippets to plot "zoomed-in" data in a regular lat-long cartesian projection, as below:
 <p align="center"><img src="ilhas_full_sst_Nov_mean.png"alt="ilhas"></p>
