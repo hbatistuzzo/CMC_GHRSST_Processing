@@ -32,3 +32,11 @@ In all seriousness, this is useful when dealing with georeferenced data as it qu
 in the Equatorial Pacific; for meso-scale features, the vortices in the Agulhas retroflection etc).
 <p align="center"><img src="ghrsst_full_std.png"alt="ilhas" width="75%"></p>
 
+
+It uses dask to optimize the code run (as opening these many netcdf files in nested concatenation is not a trivial task). Even less trivial is performing the chronological
+mean for the monthly climatology. Big kudos to those who created this awesome tool.
+
+
+It also spits out Hovmoller diagrams for each of the latitudes of interest, since they are useful for identifying meso and large-scale phenomena such as vortices and planetary (Rossby/Equatorial Kelvin) waves.
+
+
