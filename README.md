@@ -9,7 +9,7 @@
 	- Cartopy 0.21.0
 	- Cmocean 2.0
 
-<p align="right"><img src="ghrsst.png"alt="Logo"></p>
+<img src="ghrsst.png" align="right" width="50%"/>
 The Group for High-Resolution Sea Surface Temperature (SST) (GHRSST) provides a new generation of global high-resolution (<10km) SST products to the operational oceanographic, meteorological, climate and general scientific community.
 
 In this project I've created some functions to help plot SST data on different projections (Robinson being, arguably, one of the best for global imagery). The code also
