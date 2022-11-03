@@ -1,5 +1,10 @@
 # CMC_GHRSST_Processing
 
+![GitHub top language](https://img.shields.io/github/languages/top/hbatistuzzo/CMC_GHRSST_Processing)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/hbatistuzzo/CMC_GHRSST_Processing)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hbatistuzzo/CMC_GHRSST_Processing)
+![GitHub last commit](https://img.shields.io/github/last-commit/hbatistuzzo/CMC_GHRSST_Processing)
+
 - Python 3.8.13
 	- Numpy 1.20.3
 	- Seaborn 0.11.2
