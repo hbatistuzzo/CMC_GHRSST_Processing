@@ -13,6 +13,11 @@
 The Group for High-Resolution Sea Surface Temperature (SST) (GHRSST) provides a new generation of global high-resolution (<10km) SST products to the operational oceanographic, meteorological, climate and general scientific community.
 
 
+
+
+
+
+
 In this project I've created some functions to help plot SST data on different projections (Robinson being, arguably, one of the best for global imagery). The code also
 performs some previous statistics on the dataset to allow the plotting of mean +/- standard deviation contours, which are also applied in the colorbar.
 <p align="center"><img src="full_sst_mean2.png"alt="full"></p>
